@@ -1,0 +1,22 @@
+{
+  "name": "spofihbot",
+  "version": "0.1.0",
+  "description": "Bot for telegram that reads Spotify URI and returns useful information about the track",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.23.3",
+    "properties": "^1.2.1",
+    "unirest": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spotify",
+    "bot",
+    "telegram"
+  ],
+  "author": "Milena Araujo",
+  "license": "GPL-3.0"
+}
