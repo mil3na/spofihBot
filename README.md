@@ -1,10 +1,14 @@
 # spofihBot
 
 ##Description
-Bot for telegram that reads Spotify URI for tracks and replys with the track's URL for more information.
+Bot for Telegram that reads Spotify URI for tracks and replys with the track's open URL, for which Telegram provides a preview.
 
 ##How to use it
-*
+
+* Use ```/music URI``` on a group
+* Forward or type a message to Spofih bot with a Spotify URI
+
+The bot will answer with the corresponding URL for the track.
 
 ##Telegram URL
 

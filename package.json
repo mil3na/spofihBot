@@ -1,7 +1,7 @@
 {
   "name": "spofihbot",
   "version": "0.1.0",
-  "description": "Bot for Telegram that reads Spotify URI and returns useful information about the track",
+  "description": "Bot for Telegram that reads Spotify URI for tracks and replys with the track's open URL, for which Telegram provides a preview.",
   "main": "index.js",
   "dependencies": {
     "node-telegram-bot-api": "^0.23.3",
