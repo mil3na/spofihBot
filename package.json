@@ -1,7 +1,7 @@
 {
   "name": "spofihbot",
   "version": "0.1.0",
-  "description": "Bot for telegram that reads Spotify URI and returns useful information about the track",
+  "description": "Bot for Telegram that reads Spotify URI and returns useful information about the track",
   "main": "index.js",
   "dependencies": {
     "node-telegram-bot-api": "^0.23.3",
@@ -18,5 +18,9 @@
     "telegram"
   ],
   "author": "Milena Araujo",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/mil3na/spofihBot.git"
+}
 }
